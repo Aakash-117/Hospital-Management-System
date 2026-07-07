@@ -167,10 +167,10 @@ http://localhost:8080
 
 ## 👩‍💻 Author
 
-**Arrabothu Rushitha**
+**Aakash Jarubula**
 
-- GitHub: https://github.com/Rushitha505
-- LinkedIn: https://linkedin.com/in/rushitha-arrabothu
+- GitHub: https://github.com/Aakash-117
+- LinkedIn: https://linkedin.com/in/jarubula-aakash
 
 ---
 
